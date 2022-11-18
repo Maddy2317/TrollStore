@@ -1,5 +1,4 @@
 # TrollHelperOTA (iOS 15)
-
 **Supported Devices:** All devices
 
 **Supported Versions:** iOS 15.0 - 15.5b4
